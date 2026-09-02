@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-label="סמל הקו שלך">
+  <rect width="72" height="72" rx="18" fill="#0B2132"/>
+  <circle cx="53" cy="20" r="7" fill="#9FE870"/>
+  <path d="M53 28C52 43 43 50 27 50H17" fill="none" stroke="#9FE870" stroke-width="6" stroke-linecap="round"/>
+  <path d="M25 41L16 50L25 59" fill="none" stroke="#9FE870" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
