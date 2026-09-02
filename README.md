@@ -1,28 +1,12 @@
-# Matan Logistics Landing Page
+# הקו שלך
 
-Static one-page landing page for GitHub Pages.
+אתר סטטי המוכן לפרסום באמצעות GitHub Pages.
 
-## Files
+## העלאה
 
-- `index.html` - page markup and Hebrew marketing content
-- `styles.css` - responsive RTL design
-- `script.js` - contact form mail draft behavior
-- `assets/matan-logistics-hero.png` - local hero image
+1. העלו את כל הקבצים שבתיקייה זו לתיקייה הראשית של המאגר.
+2. ב־GitHub היכנסו אל Settings ואז Pages.
+3. תחת Build and deployment בחרו Deploy from a branch.
+4. בחרו את הענף main ואת התיקייה root ולחצו Save.
 
-## Before Publishing
-
-Update the email address in `script.js`:
-
-```js
-const contactEmail = "office@matan-logistics.co.il";
-```
-
-Replace it with the real email that should receive leads.
-
-## GitHub Pages
-
-1. Push these files to a GitHub repository.
-2. In GitHub, open `Settings` -> `Pages`.
-3. Choose `Deploy from a branch`.
-4. Select the branch and root folder.
-5. GitHub will provide the public page URL.
+האתר אינו דורש התקנה או בנייה. הקובץ `index.html` הוא דף הבית.
